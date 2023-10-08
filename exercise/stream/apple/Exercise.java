@@ -15,7 +15,7 @@ import stream.apple.predicate.ApplePredicate;
 
 public class Exercise {
     public static List<Apple> filterGreenApples(List<Apple> inventory) {
-//        List<Apple> result = new ArrayList<>();
+//        List<Appgit le> result = new ArrayList<>();
 //
 //        for(Apple apple : inventory){
 //            if(GREEN.equals(apple.getColor()))
