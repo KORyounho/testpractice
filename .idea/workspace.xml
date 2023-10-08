@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0d12820-9398-433f-ae7d-12a2df3620aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/462d5ceb28adda541cffaaf95b8efa4d887fe555" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/4836cc5b891140db479915762b4917b918fc85c5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d4b02f6d83e94f3a17ab720ff6669e89783ac8f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50cc4c3e63426f7cca595438eb21d647fb76dba2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65765e0410014d6c550ceae61aae3bd7117c770b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79f2fe8c201fc9e751def05021efa323819b22f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c4322e2feb93343e2009e17970ce4b2a9fa749e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90f1ed5a32d5010abed652c2ae4e0228cc5a8430" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/91153eac3bc9e1918acabc43b980424512319344" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9c9ec161bd33054287f1c860e763c9c7b23137f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd3631e6f789ca56112bc318e181641f78ae56c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6e9abba1d11d4e393ec2f215ee6762b780f0fa8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f88b309cacf3eacba51c7c253cd309208e163d6c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/6/462d5ceb28adda541cffaaf95b8efa4d887fe555" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/8/4836cc5b891140db479915762b4917b918fc85c5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/d/4d4b02f6d83e94f3a17ab720ff6669e89783ac8f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/0/50cc4c3e63426f7cca595438eb21d647fb76dba2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/5/65765e0410014d6c550ceae61aae3bd7117c770b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/9/79f2fe8c201fc9e751def05021efa323819b22f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/c/7c4322e2feb93343e2009e17970ce4b2a9fa749e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/0/90f1ed5a32d5010abed652c2ae4e0228cc5a8430" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/1/91153eac3bc9e1918acabc43b980424512319344" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/9/b9c9ec161bd33054287f1c860e763c9c7b23137f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/d/dd3631e6f789ca56112bc318e181641f78ae56c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/6/e6e9abba1d11d4e393ec2f215ee6762b780f0fa8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/8/f88b309cacf3eacba51c7c253cd309208e163d6c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/iterator/IteratorLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/stream/StreamExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/stream/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/stream/apple/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/stream/apple/AppleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/stream/apple/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/stream/apple/dish/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/stream/apple/predicate/AppleGreenColorPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/stream/apple/predicate/AppleHeavyWeightPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/stream/apple/predicate/ApplePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/typeparameter/List/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/typeparameter/List/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/typeparameter/List/MainListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/typeparameter/List/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/typeparameter/TypeParameterExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/typeparameter/UserMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/typeparameter/grade/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/typeparameter/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/typeparameter/user/UserA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/typeparameter/user/UserB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nhnteststudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/iterator/Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/iterator/IteratorLib.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/stream/Ramda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/stream/StreamExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/stream/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/stream/apple/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/stream/apple/AppleList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/stream/apple/Exercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/stream/apple/predicate/AppleGreenColorPredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/stream/apple/predicate/AppleHeavyWeightPredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/stream/apple/predicate/ApplePredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/typeparameter/List/List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/typeparameter/List/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/typeparameter/List/MainListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/typeparameter/List/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/typeparameter/UserMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/typeparameter/grade/Grade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/typeparameter/user/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/typeparameter/user/UserA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nhnteststudy/typeparameter/user/UserB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterator/Iterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterator/IteratorLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/stream/Ramda.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2WQU6WmjqWSxTR2KKEE66afa4xr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/younho/Documents/nhnteststudy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="stream" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0d12820-9398-433f-ae7d-12a2df3620aa" name="Changes" comment="" />
+      <created>1696664122268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696664122268</updated>
+      <workItem from="1696664123327" duration="12958000" />
+      <workItem from="1696741699709" duration="13382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
