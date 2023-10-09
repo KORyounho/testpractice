@@ -1,0 +1,7 @@
+
+:
+java:S2326	"Apple is not used in the class.(®¿ùÑøÿÿÿÿ
+c	java:S119	"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(®¿ùÑøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(²š¬Á
+Q	java:S125"<This block of commented-out lines of code should be removed.(²š¬Á
+V	java:S125."<This block of commented-out lines of code should be removed.(Êºæúÿÿÿÿ

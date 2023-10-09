@@ -1,0 +1,23 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ĞÅÛ‘
+V	java:S125"<This block of commented-out lines of code should be removed.(üµäÄúÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(²š¬Á
+V	java:S125-"<This block of commented-out lines of code should be removed.(Ö½¹–øÿÿÿÿ
+V	java:S1252"<This block of commented-out lines of code should be removed.(ŒíÂÓøÿÿÿÿ
+V	java:S1259"<This block of commented-out lines of code should be removed.(³ï¶‡ûÿÿÿÿ
+Q	java:S125U"<This block of commented-out lines of code should be removed.(ÆÖê„
+E	java:S106u"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+V	java:S125v"<This block of commented-out lines of code should be removed.(‰Î±¨øÿÿÿÿ
+E	java:S106x"+Replace this use of System.out by a logger.(×²Âùÿÿÿÿ
+F	java:S106ƒ"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+V	java:S125z"<This block of commented-out lines of code should be removed.(£”÷Èûÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¦œ¹Ñúÿÿÿÿ
+F	java:S106†"+Replace this use of System.out by a logger.(×²Âùÿÿÿÿ
+F	java:S106ˆ"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+F	java:S106‹"+Replace this use of System.out by a logger.(×²Âùÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+G
+java:S1128	"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
+c
+java:S1128"MRemove this unused import 'stream.apple.predicate.AppleHeavyWeightPredicate'.(ñÊÍ

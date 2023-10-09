@@ -1,6 +1,8 @@
 package stream.dish;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class DishExercise {
@@ -51,6 +53,16 @@ public class DishExercise {
 
         DishList.sortByNumber(list);
         System.out.println();
+        for (Dish dish : list) {
+            System.out.println(dish);
+        }
+        System.out.println();
+        Collections.sort(list, new Comparator<Dish>() {
+            @Override
+            public int compare(Dish o1, Dish o2) {
+                return o1.getCalories() - o2.getCalories();
+            }
+        });
         for (Dish dish : list) {
             System.out.println(dish);
         }
